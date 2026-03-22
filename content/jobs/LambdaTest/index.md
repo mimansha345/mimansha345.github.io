@@ -1,13 +1,13 @@
 ---
-date: '2022-02-05'
-title: 'Freelance Technical Writer'
-company: 'LambdaTest'
-location: 'Remote'
-range: 'Feb 2022 - Present'
-url: 'https://www.lambdatest.com/'
+title: "Finalist – IBM Expert Lab Hackathon"
+company: "IBM"
+location: "Bengaluru"
+range: "Aug 2025"
+url: ""
 ---
 
-- Published high quality SEO optimised blogs and articles on topics like CI/CD, DevOps, Selenium, LambdaTest integrations, Cross-Browser testing, and How-to tutorials
-- 400,000+ views on the following published articles:
-- [Streamline Your Development Process With Google Cloud CI/CD Pipeline](https://www.lambdatest.com/blog/google-cloud-ci-cd-pipeline/)
-- [Getting Started With DevOps – A Beginner’s Guide](https://www.lambdatest.com/blog/getting-started-with-devops/)
+<ul>
+  <li>Shortlisted among top teams in the IBM Expert Lab National Hackathon.</li>
+  <li>Ranked in Top 10 for Python-based solution.</li>
+  <li>Demonstrated strong problem-solving and real-world solution building skills.</li>
+</ul>

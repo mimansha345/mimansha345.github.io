@@ -59,36 +59,36 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Namaste! My name is</h1>;
-  const two = <h2 className="big-heading">Chandrika Deb</h2>;
-  const three = <h3 className="medium-heading">MBA | Digital Marketing | Freelance Blogger</h3>;
+  // const one = <h1>Namaste! My name is</h1>;
+  // const two = <h2 className="big-heading">Chandrika Deb</h2>;
+  // const three = <h3 className="medium-heading">MBA | Digital Marketing | Freelance Blogger</h3>;
+  const one = <h1>Hi, my name is</h1>;
+  const two = <h2 className="big-heading">Mimansha</h2>;
+  const three = (
+    <h3 className="medium-heading">I build AI-powered applications and full-stack systems.</h3>
+  );
   const four = (
     <>
       <p>
-        <b>Glad to e-meet you!</b>
+        I am a Computer Science student with a strong focus on AI, full-stack development, and
+        problem-solving using data structures and algorithms.
       </p>
 
       <p>
-        I am Chandrika Deb, an alumnus of {' '} <a href="http://www.iimrohtak.ac.in">
-        IIM Rohtak</a> {' '} and {' '} <a href="https://www.bitmesra.ac.in">BIT Mesra</a> {' '} currently spearheading impactful digital marketing initiatives at {' '}
-        <a href="https://www.tatasteel.com">Tata Steel</a>.
+        I have built projects like <strong>CareerVerse</strong>, an AI-powered job portal that
+        performs resume analysis, detects skill gaps, and provides personalized career
+        recommendations using NLP and machine learning.
       </p>
 
-
       <p>
-        When not decoding the customer journey, you can find me sketching on {' '}
-        <a href="https://pin.it/4W1Rxtj">Pinterest</a> {' '} or writing technical blogs for {' '}
-        <a href="https://www.lambdatest.com">LambdaTest</a> {' '} and other freelance clients.
+        I enjoy building scalable systems, solving real-world problems, and continuously improving
+        my skills in software development and AI-driven solutions.
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://chandrikadeb7.gumroad.com"
-      target="_blank"
-      rel="noreferrer">
-      Check out my products!
+    <a className="email-link" href="mailto:mimanshashahi@gmail.com">
+      Get In Touch
     </a>
   );
 

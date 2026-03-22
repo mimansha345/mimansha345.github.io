@@ -1,15 +1,8 @@
 ---
-date: '2021-04-20'
-title: 'Personal Website'
-github: 'https://github.com/chandrikadeb7/chandrikadeb7.github.io'
-external: 'https://chandrikadeb7.github.io'
-tech:
-  - JavaScript
-  - GraphQL
-  - Gatsby
-company: 'Project'
-showInProjects: true
+title: "Programming in C Certification"
+tech: ["iamneo (NIIT Venture)"]
+external: ""
+date: "2024-05-01"
 ---
 
-Personal portfolio website hosted on GitHub Pages inspired by Brittany Chiang's V4 template
-
+Learned core concepts of C programming including memory management, pointers, and structured programming.

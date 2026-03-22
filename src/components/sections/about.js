@@ -125,7 +125,17 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['SEO', 'Content Marketing', 'Conversion Rate Optimization', 'Meta Ads', 'Zoho CRM', 'Tableau', 'HTML/CSS', 'Python'];
+  const skills = [
+    'Python',
+    'FastAPI',
+    'React',
+    'JavaScript',
+    'Firebase',
+    'AI/NLP',
+    'Data Structures and Algorithms',
+    'C++',
+    'SQL',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,32 +145,30 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            With a core specialization in Marketing &amp; Strategy, I've orchestrated impactful
-             digital marketing campaigns for {' '}
-             <a href="https://digeca.tatasteel.com">DigECA</a> {' '}, an e-Commerce steel buying website for MSMEs at{' '} 
-             <a href="https://www.tatasteel.com">Tata Steel</a>.
+              Hi, I'm Mimansha, a Computer Science student passionate about building impactful
+              applications using AI and full-stack technologies.
             </p>
 
             <p>
-            I have also spearheaded employer branding initiatives for {' '}
-            <a href="https://drive.google.com/file/d/1w-uN9jb86pxFXPYMDu_78P-d1CZJAx3V/view?usp=sharing">
-              Aditya Birla Fashion and Retail</a>, {' '} resulting in a remarkable 37% surge in consumer engagement 
-              during my remote live project as part of my MBA journey.
+              I have developed projects like <strong>CareerVerse</strong>, an AI-based job portal
+              that analyzes resumes, detects skill gaps, and provides personalized career
+              recommendations using NLP and machine learning.
             </p>
 
             <p>
-            During my tenure at {' '} <a href="https://www.amdocs.com">Amdocs</a>, {' '} 
-            where I served as a Software Developer, I had the honor of being selected as one of 16 elite {' '} 
-            <a href="https://drive.google.com/file/d/16BGu5InZZDGCtoWas560ezwKsgVBKbI9/view?usp=sharing">Innovation Agents</a>.
+              I also built systems like a Mini Twitter application using Heap and HashMap-based feed
+              algorithms, and data-driven dashboards using tools like IBM Cognos.
             </p>
 
             <p>
-            Moreover, my role as a {' '} <a href="https://drive.google.com/file/d/1iRTZfE7v5Y99BYZVxevaGBVtF90t-TOb/view?usp=sharing">
-              Placement Coordinator</a> {' '} at IIM Rohtak saw me cultivate over 30 new corporate relationships, culminating in a 
-              remarkable 42% boost in campus placements.
+              Beyond technical work, I have actively contributed to an NGO where I taught
+              underprivileged children basic subjects, spreading awareness about education and
+              empowering them for a better future.
             </p>
 
-            <p>My skills are not limited to this list!</p>
+            <p>
+              I am always eager to learn, build, and create solutions that make a real-world impact.
+            </p>
           </div>
 
           <ul className="skills-list">
@@ -172,7 +180,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me2.jpeg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

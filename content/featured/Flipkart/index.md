@@ -1,15 +1,17 @@
 ---
-date: '3'
-title: 'MYOB: Make Your Own Basket'
-cover: './flipkart.png'
-external: 'https://docs.google.com/presentation/d/1ELoytkCyrR6PysGE34kiz_b6PXTBmbf_SWKGwSu9SeE/edit?usp=sharing'
-cta: 'https://chandrikadeb7.gumroad.com/l/mbaSlides?layout=profile'
-tech:
-  - Research
-  - SPSS
-  - Clustering
-  - Financial Implication
+title: "CareerVerse – AI-Powered Job Portal"
+date: "2025-08-01"
+tech: ["React.js", "FastAPI", "Firebase Auth", "Gemini AI", "MongoDB", "JavaScript"]
+github: "https://github.com/mimansha345"
+external: ""
+cta: ""
+cover: "./carverimg.jpeg"
 ---
 
-Personalizing Flipkart India Employee Rewards with varied short-term and long-term incentives aligned with their age, career stage, personality traits, etc. for optimal engagement as part of **Flipkart WiRED 7.0 HR Track** Bschool Case Competition
+Developed a full-stack AI-powered job portal with resume screening, skill-gap analysis, and personalized career recommendations.
 
+Integrated Firebase Google Authentication and JWT-based security between React frontend and FastAPI backend.
+
+Implemented AI modules using Google Gemini to extract skills, match candidates with jobs, and recommend relevant courses dynamically.
+
+Enabled employers to post jobs, view AI-generated candidate insights, and manage applications through a responsive UI.

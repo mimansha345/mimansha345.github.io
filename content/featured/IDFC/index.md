@@ -1,16 +1,14 @@
 ---
-date: '2'
-title: 'iIFA: Integrated IDFC First Assistant'
-cover: './idfc.png'
-external: 'https://docs.google.com/presentation/d/1VBxFohznvvVg8Kxf5CPwx2UAgbv2ReTx6vzcp8A7u70/edit?usp=sharing'
-tech:
-  - Review Scraping
-  - User Persona
-  - Figma
-  - GTM
-  - RICE
+title: "Mini Twitter – Feed Algorithm Simulation"
+date: "2025-06-01"
+tech: ["C++", "Data Structures", "Heap", "HashMap"]
+github: "https://github.com/mimansha345"
+external: ""
+cover: "./mintwi2.jpeg"
 ---
 
-Banking Application Enhancement for increased engagement time/customer for **IDFC FAME Product Track** Bschool Case Competition
+Developed an offline simulation of a social media news feed focusing on efficient ranking and retrieval of posts.
 
-Proposed enhanced chatbot, unique spending options beneficial for users, and geolocation based cashbacks and coupons reward store prompts
+Implemented feed generation using Heap and HashMap to prioritize posts based on timestamps and relevance.
+
+Optimized the system for fast feed updates and near-instant retrieval, demonstrating strong DSA and system design understanding.

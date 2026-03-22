@@ -1,22 +1,22 @@
 module.exports = {
-  email: 'chandrikadeb7@gmail.com',
+  email: 'mimanshashahi@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/mimansha345',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
+      url: 'https://www.instagram.com/mimaanshaaa',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/mimansha234',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb',
+      url: 'https://www.linkedin.com/in/mimansha345',
     },
     {
       name: 'Codepen',

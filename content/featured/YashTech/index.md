@@ -1,15 +1,14 @@
 ---
-date: '1'
-title: 'La Dérma: Beauty with AI'
-cover: './yash.png'
-github: 'https://github.com/chandrikadeb7/La-Derma'
-external: 'https://docs.google.com/presentation/d/1q-de17co3sbWG5tAgwR_O8jbMF_tyaIn_Sgyzeg9uuI/edit?usp=sharing'
-tech:
-  - Python
-  - JavaScript
-  - React
-  - OpenCV
-  - TensorFlow
+title: "Process Monitoring Dashboard"
+date: "2025-05-01"
+tech: ["Python", "Flask", "psutil", "Chart.js", "JavaScript"]
+github: "https://github.com/mimansha345"
+external: ""
+cover: "./osimg.jpeg"
 ---
 
-An application that recommends personalised skincare and makeup products based on the skin metrics inferred from user’s selfie, using Computer Vision algorithms submitted for Yash Technologies Case Competition **TechnoThrive**.
+Built a real-time system monitoring dashboard to track CPU, memory, and process activity.
+
+Implemented filtering, sorting, and process termination using PID-level system calls.
+
+Integrated dynamic visualizations using Chart.js for live CPU usage and process analytics.

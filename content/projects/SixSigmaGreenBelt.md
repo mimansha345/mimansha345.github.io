@@ -1,14 +1,8 @@
 ---
-date: '2022-06-12'
-title: 'Six Sigma: Green Belt'
-github: ''
-external: 'https://drive.google.com/file/d/16brJRCuvKbyYp7MZgq7TMlWWO5X5BTQ9/view?usp=sharing'
-tech:
-  - DMAIC
-  - TQM
-  - Process Improvement
-company: 'Certification'
-showInProjects: true
+title: "Introduction to JavaScript I"
+tech: ["Saylor University"]
+external: ""
+date: "2024-02-01"
 ---
 
-Understood the fundamentals of Six Sigma along with project implementations
+Built foundational knowledge of JavaScript including variables, functions, and basic web scripting.

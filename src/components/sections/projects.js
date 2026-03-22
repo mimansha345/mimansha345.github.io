@@ -265,11 +265,7 @@ const Projects = () => {
 
   return (
     <StyledProjectsSection>
-      <h2 ref={revealTitle}>Projects | Case Comps | Certifications</h2>
-
-      <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-        View Archive
-      </Link>
+      <h2 ref={revealTitle}>Certifications</h2>
 
       <ul className="projects-grid">
         {prefersReducedMotion ? (

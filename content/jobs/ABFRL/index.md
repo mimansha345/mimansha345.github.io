@@ -1,12 +1,14 @@
 ---
-date: '2023-07-05'
-title: 'Employer Branding Intern'
-company: 'ABFRL'
-location: 'Remote'
-range: 'July - September 2023'
-url: 'https://abfrl.com/'
+title: "Volunteer Educator"
+company: "NGO Initiative"
+location: "India"
+range: "2024 – Present"
+url: ""
 ---
 
-- Amplified the STRIDES program value, aiding potential recruits in understanding career growth opportunities
-- Developed strategic Campus Engagement deliverables for leadership talks as part of the Young Talent Management (YTM) team
-- Enhanced recruitment by 37% by promoting the STRIDE program & leading campus initiatives on LinkedIn
+<ul>
+  <li>Taught underprivileged children basic subjects including English, Hindi, and Mathematics.</li>
+  <li>Raised awareness about education, rights, and importance of personal development.</li>
+  <li>Conducted sessions on yoga and overall well-being.</li>
+  <li>Helped students build confidence and motivation for their future.</li>
+</ul>
